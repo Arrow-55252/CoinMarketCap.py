@@ -1,5 +1,6 @@
 # coinmarcap.py
-    - A program that is interactive within the terminal that allows the user to view live cryptocurrency data powered by the CoinMarketCap api.
+    - A program that is interactive within the terminal.
+    That allows the user to view live cryptocurrency data powered by the CoinMarketCap api.
 
 ## Getting Started:
     - Copy the repository
